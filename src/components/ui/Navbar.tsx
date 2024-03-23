@@ -2,11 +2,9 @@ import {
   IconBooks,
   IconFolder,
   IconPlayerPlay,
-  IconSearch,
   IconTrash,
 } from "@tabler/icons-react";
 import React from "react";
-import SearchBar from "./SearchBar";
 
 export default function Navbar() {
   return (

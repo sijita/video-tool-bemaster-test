@@ -10,7 +10,7 @@ import {
 } from "@tabler/icons-react";
 import { usePathname } from "next/navigation";
 import { useSidebar } from "@/store/sidebar";
-import { AnimatePresence, motion } from "framer-motion";
+import { motion } from "framer-motion";
 
 const menuItems = [
   { name: "Dashboard", href: "#", icon: IconLayoutDashboard },

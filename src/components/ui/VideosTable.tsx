@@ -1,6 +1,5 @@
 import { IconPlayerPlay } from "@tabler/icons-react";
 import Link from "next/link";
-import React from "react";
 
 export default function VideosTable({
   tableRows,
